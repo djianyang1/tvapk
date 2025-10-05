@@ -21,7 +21,6 @@
 * 灵犀直播
 * 橙子投屏
 * IKTV  K歌神器
-* 纯粹直播
 * 想唱就唱
 * 儿童影院
 
@@ -44,7 +43,6 @@
 * 爱尚直播 v1.3
 * 千寻直播 v1.0.9
 * 电视多TV v5.2.0 可看港台，日韩电视
-* 老陈TV  可看港台日韩电视
 * 欧歌黑盒
 * 欧歌影视
 * 影视仓 v6.0.2
@@ -70,6 +68,12 @@
 * 爱唱KTV v3.22.71  
 * BBLL  v1.5.2  [官网地址链接](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 * 特狗TV  [官网地址链接](http://tegouapp.vip/)
+* 云视快听TV v3.9.1.2010
+* 亲宝故事会
+* 酷咖游戏
+* 教育学习TV  （手机号随便填，激活码6666688888）
+* BV 0.3.2
+* TV 音乐盒 4.5
 <br><br>
 
 ## 直播源与点播源
